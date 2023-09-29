@@ -1,0 +1,17 @@
+{
+    "name": "crypto-longpolling-bot",
+    "version": "1.0.0",
+    "auther": "De Belser Arne",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ArneDeBelser/crypto-longpolling-bot"
+    },
+    "description": "Thank you for the clarification. Given that it's a long polling bot for cryptocurrency trading, here's an updated README.md tailored to this specific context:",
+    "main": "main.mjs",
+    "scripts": {
+        "start": "node main.mjs",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
