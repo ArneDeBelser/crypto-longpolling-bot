@@ -1,7 +1,3 @@
-Thank you for the clarification. Given that it's a long polling bot for cryptocurrency trading, here's an updated README.md tailored to this specific context:
-
----
-
 # Crypto Trading Long Polling Bot
 
 ## Overview
