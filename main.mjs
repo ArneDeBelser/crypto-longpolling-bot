@@ -4,6 +4,8 @@ import Bot from './bot.mjs';
 // Import the 'Logger' class from the 'logger.mjs' file, which is used for logging.
 import Logger from './logger.mjs';
 
+import 'dotenv/config';
+
 // Create a new instance of the 'Logger' class.
 const logger = new Logger();
 
